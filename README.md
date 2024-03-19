@@ -1,6 +1,6 @@
 Chatbot for food orders online delivery using Dialogflow
 ===================
-Build a chatbot for food orders online delivery using Google's Dialogflow ES. This bot supports two options,
+A chatbot for food orders online delivery built using Google's Dialogflow ES. This bot supports two options,
 
 1) New Order
 2) Track Order
